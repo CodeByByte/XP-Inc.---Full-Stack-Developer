@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\refint\ExemplosFundamentos.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
