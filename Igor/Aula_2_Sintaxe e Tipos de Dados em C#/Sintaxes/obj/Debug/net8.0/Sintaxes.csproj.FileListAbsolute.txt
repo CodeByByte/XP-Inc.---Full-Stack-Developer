@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\bin\Debug\net8.0\Sintaxes.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\bin\Debug\net8.0\Sintaxes.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\bin\Debug\net8.0\Sintaxes.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\bin\Debug\net8.0\Sintaxes.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\bin\Debug\net8.0\Sintaxes.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\refint\Sintaxes.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\Sintaxes.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Sintaxes\obj\Debug\net8.0\ref\Sintaxes.dll
