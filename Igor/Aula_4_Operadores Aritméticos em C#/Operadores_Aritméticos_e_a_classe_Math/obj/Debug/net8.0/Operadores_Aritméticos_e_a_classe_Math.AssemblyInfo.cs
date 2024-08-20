@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sintaxes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Operadores_Aritméticos_e_a_classe_Math")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bccfcf1ea681c8fc227033d4b07b3edcf22ae00")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sintaxes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sintaxes")]
+[assembly: System.Reflection.AssemblyProductAttribute("Operadores_Aritméticos_e_a_classe_Math")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Operadores_Aritméticos_e_a_classe_Math")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

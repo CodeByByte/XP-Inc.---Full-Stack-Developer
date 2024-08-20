@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\bin\Debug\net8.0\Tipos de Dados.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\bin\Debug\net8.0\Tipos de Dados.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\bin\Debug\net8.0\Tipos de Dados.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\bin\Debug\net8.0\Tipos de Dados.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\bin\Debug\net8.0\Tipos de Dados.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\refint\Tipos de Dados.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\Tipos de Dados.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_2_Sintaxe e Tipos de Dados em C#\Tipos_de_Dados\obj\Debug\net8.0\ref\Tipos de Dados.dll

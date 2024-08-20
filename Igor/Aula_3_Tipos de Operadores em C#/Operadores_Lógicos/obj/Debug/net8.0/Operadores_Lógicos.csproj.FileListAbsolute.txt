@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\bin\Debug\net8.0\Operadores_Lógicos.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\bin\Debug\net8.0\Operadores_Lógicos.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\bin\Debug\net8.0\Operadores_Lógicos.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\bin\Debug\net8.0\Operadores_Lógicos.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\bin\Debug\net8.0\Operadores_Lógicos.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\refint\Operadores_Lógicos.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\Operadores_Lógicos.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Lógicos\obj\Debug\net8.0\ref\Operadores_Lógicos.dll

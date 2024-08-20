@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\bin\Debug\net8.0\Operadores-Condicionais.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\bin\Debug\net8.0\Operadores-Condicionais.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\bin\Debug\net8.0\Operadores-Condicionais.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\bin\Debug\net8.0\Operadores-Condicionais.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\bin\Debug\net8.0\Operadores-Condicionais.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\refint\Operadores-Condicionais.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\Operadores-Condicionais.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores-Condicionais\obj\Debug\net8.0\ref\Operadores-Condicionais.dll

@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\bin\Debug\net8.0\Operadores_Atribuicao.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\bin\Debug\net8.0\Operadores_Atribuicao.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\bin\Debug\net8.0\Operadores_Atribuicao.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\bin\Debug\net8.0\Operadores_Atribuicao.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\bin\Debug\net8.0\Operadores_Atribuicao.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\refint\Operadores_Atribuicao.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\Operadores_Atribuicao.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Aula_3_Tipos de Operadores em C#\Operadores_Atribuicao\obj\Debug\net8.0\ref\Operadores_Atribuicao.dll
