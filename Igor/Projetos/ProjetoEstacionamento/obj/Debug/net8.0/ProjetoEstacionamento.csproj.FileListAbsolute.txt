@@ -1,0 +1,15 @@
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.sourcelink.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\bin\Debug\net8.0\ProjetoEstacionamento.exe
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\bin\Debug\net8.0\ProjetoEstacionamento.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\bin\Debug\net8.0\ProjetoEstacionamento.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\bin\Debug\net8.0\ProjetoEstacionamento.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\bin\Debug\net8.0\ProjetoEstacionamento.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\refint\ProjetoEstacionamento.dll
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ProjetoEstacionamento.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\XP-Inc.---Full-Stack-Developer\Igor\Projetos\ProjetoEstacionamento\obj\Debug\net8.0\ref\ProjetoEstacionamento.dll
